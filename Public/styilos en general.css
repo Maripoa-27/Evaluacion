@@ -66,8 +66,8 @@ h2{
     border: 5px solid red;
   padding: 40px;
   margin: 40px;
-  width: 300px;
-  height: 250px;
+  width: 350px;
+  height: 330px;
 }
 .hamburguesa{
     text-align: left;
@@ -75,5 +75,5 @@ h2{
 }
 
 .comida1{
-
+float: left;
 }
