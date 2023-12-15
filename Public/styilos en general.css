@@ -1,8 +1,77 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
 h1{
+    color: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
+img{
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+}
+
+h2{
+    color: white;
+}
+
+
 .comenzales{
+    color: white;
+    text-align: center;   
+}
+
+.shrink{
+    width: 150px;
+    height: 150px;
+}
+
+.proyecto1{
     text-align: center;
+    color: white;
+    width: 350px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid rgb(187, 12, 12);
+    float: left;
+}
+
+.imagen10{
+    width: 350px;
+    height: 200px;
+    float: right;
+
+}
+
+.boton{
+    color: red;
+}
+
+
+.ubicacion{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+    color: white;
+}
+
+.color{
+    color: white;
+}
+.hamburguesa{
+    text-align: left;
+}
+
+.hot{
+    text-align: right;
+}
+
+.dog{
+    align-items: end;
 }
